@@ -46,3 +46,16 @@
 //produto.Retirar(10);
 
 
+//Pedido pedido = new("001", "Ana Silva");
+//pedido.ExibirPedido();
+//pedido.AtualizarStatus("Enviado");
+//pedido.ExibirPedido();
+
+//Consulta consulta = new Consulta("João Lima", "Dra. Renata", new DateTime(2025, 5, 20));
+//consulta.ExibirResumo();
+//consulta.Reagendar(new DateTime(2025, 5, 25));
+//consulta.ExibirResumo();
+
+//InformacaoTecnica info = new InformacaoTecnica(1500, "Windows/Mac");
+//ProdutoDigital produto = new ProdutoDigital("Photoshop", 89.99, info);
+//produto.ExibirDetalhes();
