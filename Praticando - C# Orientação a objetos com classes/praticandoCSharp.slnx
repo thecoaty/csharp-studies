@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../praticandoHeranca/praticandoHeranca.csproj" Id="18f681b7-48b6-4337-a7c0-75acd13f6d57" />
+  <Project Path="../praticandoPolimorfismo/praticandoPolimorfismo.csproj" Id="7614a9fc-963c-4376-b26a-87ab1a60d059" />
   <Project Path="praticandoCSharp.csproj" />
 </Solution>
