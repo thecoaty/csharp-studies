@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="../ByteBankIO/ByteBankIO.csproj" Id="9e09ab2c-19b3-4378-b58d-1e78bcc04ccd" />
+  <Project Path="../IntroAColecoes/IntroAColecoes.csproj" Id="bc34d95b-7bd1-4b7a-b105-0ee604c9b758" />
+  <Project Path="../OperacoesEmColecoes/OperacoesEmColecoes.csproj" Id="cbd5f4de-b9d1-4467-a13a-b80eac899ba0" />
   <Project Path="../praticandoHeranca/praticandoHeranca.csproj" Id="18f681b7-48b6-4337-a7c0-75acd13f6d57" />
   <Project Path="../praticandoPolimorfismo/praticandoPolimorfismo.csproj" Id="7614a9fc-963c-4376-b26a-87ab1a60d059" />
   <Project Path="../ScreenSound-API/ScreenSound-API.csproj" Id="d4f751ae-5555-4d64-be10-7563ae0ca26b" />
